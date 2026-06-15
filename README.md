@@ -10,3 +10,10 @@ Particularly interested in robotics, physical AI and IoT.
   <img alt="github contribution grid snake"
        src="https://raw.githubusercontent.com/raywangruihua/raywangruihua/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/raywangruihua/raywangruihua/output/overview.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/raywangruihua/raywangruihua/output/languages.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/raywangruihua/raywangruihua/output/overview.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/raywangruihua/raywangruihua/output/languages.svg#gh-light-mode-only" />
+</div>

@@ -1,4 +1,4 @@
-name: generate snake
+name: Generate Github Contribution Grid Snake
 
 on:
   # run automatically every 24 hours
