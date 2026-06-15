@@ -6,7 +6,7 @@ Particularly interested in robotics, physical AI and IoT.
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/raywangruihua/raywangruihua/main/github-snake-dark.svg">
+          srcset="https://raw.githubusercontent.com/raywangruihua/raywangruihua/output/github-snake-dark.svg">
   <img alt="snake animation"
-       src="https://raw.githubusercontent.com/raywangruihua/raywangruihua/main/github-snake.svg">
+       src="https://raw.githubusercontent.com/raywangruihua/raywangruihua/output/github-snake.svg">
 </picture>
