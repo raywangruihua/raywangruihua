@@ -5,4 +5,6 @@
   <img src="https://raw.githubusercontent.com/raywangruihua/raywangruihua/output/languages.svg#gh-light-mode-only" />
 </div>
 
-I like coding software for hardware.
+<div align="center">
+  I like coding software for hardware.
+</div>
